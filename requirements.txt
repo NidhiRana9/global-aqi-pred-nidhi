@@ -6,3 +6,4 @@ plotly
 matplotlib
 scikit-learn
 xgboost
+reportlab
